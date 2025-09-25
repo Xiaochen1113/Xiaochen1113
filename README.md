@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Xiaochen Wang.
 
 <!--
 **Xiaochen1113/Xiaochen1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
